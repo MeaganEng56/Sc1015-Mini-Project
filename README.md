@@ -9,17 +9,31 @@ Source: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 ### Problem Definition
 How does the online retail transactions dataset give us insight on customer behaviour?
 
+### Algorithms/Models Used
+- Apriori algorithm
+- Prophet Model
+
 ### Visualisation Tools Used
-1. Apriori algorithm
-2. Choropleth Map, Proportional Symbol Map
-3. Prophet Model
+- Bar Plot
+- Time Series Line Plot
+- Correlation Plot
+- Scatter Plot
+- Choropleth Map, Proportional Symbol Map
+
 
 ### Contribution
-Leow Yi Shian:
+Leow Yi Shian: Geospatial Analysis
 
-Liaw Rui Xian:
+Liaw Rui Xian: Time Series Forecasting
 
-Meagan Eng Pei Ying:
+Meagan Eng Pei Ying: Market Basket Analysis
 
 ### References
-1. 
+Our project is inspired by this kaggle page
+https://www.kaggle.com/code/allunia/e-commerce-sales-forecast
+
+We obtained our dataset from this source
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
+We know about Prophet Model from this video
+https://youtu.be/j0eioK5edqg?si=ae89fKdnRvNvSeRH
