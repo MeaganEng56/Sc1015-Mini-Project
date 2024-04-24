@@ -7,16 +7,20 @@ Source: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 (We are not able to upload the file here because it is too big)
 
+
 ### Problem Definition
 How does the online retail transactions dataset give us insight on customer behaviour?
+
 
 ### Jupyter Notebook
 1. Main (All other parts of the code)
 2. Time Series Forecasting
 
+
 ### Algorithms/Models Used
 - Apriori algorithm
 - Prophet Model
+
 
 ### Visualisation Tools Used
 - Bar Plot
@@ -30,11 +34,12 @@ How does the online retail transactions dataset give us insight on customer beha
 
 
 ### Contribution
-Leow Yi Shian: Geospatial Analysis
+Leow Yi Shian: Geospatial Analysis, Data Preparation
 
-Liaw Rui Xian: Time Series Forecasting
+Liaw Rui Xian: Time Series Forecasting, Customer Segmentation
 
 Meagan Eng Pei Ying: Market Basket Analysis, Sales Patterns
+
 
 ### References
 - Our project is inspired by this kaggle page:
@@ -45,7 +50,6 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 - We know about Prophet Model from this video:
 https://youtu.be/j0eioK5edqg?si=ae89fKdnRvNvSeRH
-
 
 - Market Basket Analysis:
   
