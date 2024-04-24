@@ -57,9 +57,11 @@ https://youtu.be/j0eioK5edqg?si=ae89fKdnRvNvSeRH
   
 - Autocorrelation Plot:
   
-    -Brownlee, J. (2023, November 18). How to Create an ARIMA Model for Time Series Forecasting in Python - MachineLearningMastery.com. Machine Learning Mastery.     Retrieved April 24, 2024, from https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
-    -Rohrer, B. (2022, September 30). Autocorrelation Function in Time series Forecasting | Machine Learning. YouTube. Retrieved April 24, 2024, from https://www.youtube.com/watch?v=V8QChjyYY48
-    -Time Series Talk : Autocorrelation and Partial Autocorrelation. (2019, April 11). YouTube. Retrieved April 24, 2024, from https://www.youtube.com/watch?v=DeORzP0go5I
+    Brownlee, J. (2023, November 18). How to Create an ARIMA Model for Time Series Forecasting in Python - MachineLearningMastery.com. Machine Learning Mastery.     Retrieved April 24, 2024, from https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+  
+    Rohrer, B. (2022, September 30). Autocorrelation Function in Time Series Forecasting | Machine Learning. YouTube. Retrieved April 24, 2024, from https://www.youtube.com/watch?v=V8QChjyYY48
+  
+    Time Series Talk: Autocorrelation and Partial Autocorrelation. (2019, April 11). YouTube. Retrieved April 24, 2024, from https://www.youtube.com/watch?v=DeORzP0go5I
 
   
 
