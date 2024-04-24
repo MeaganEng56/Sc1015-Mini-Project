@@ -46,14 +46,14 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 https://youtu.be/j0eioK5edqg?si=ae89fKdnRvNvSeRH
 
 -Market Basket Analysis:
-  -Li, S. (n.d.). A Gentle Introduction on Market Basket Analysis — Association Rules. Towards Data Science. Retrieved April 24, 2024, from https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce
-  -Noble, J. (2024, April 3). Implementing the Apriori algorithm in Python on watsonx.ai. IBM Developer. Retrieved April 24, 2024, from https://developer.ibm.com/tutorials/awb-implementing-apriori-algorithm-python/
-  -Selvaraj, N. (n.d.). How to Perform Market Basket Analysis in Python. 365 Data Science. Retrieved April 24, 2024, from https://365datascience.com/tutorials/python-tutorials/market-basket-analysis/
+    -Li, S. (n.d.). A Gentle Introduction on Market Basket Analysis — Association Rules. Towards Data Science. Retrieved April 24, 2024, from https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce
+    -Noble, J. (2024, April 3). Implementing the Apriori algorithm in Python on watsonx.ai. IBM Developer. Retrieved April 24, 2024, from https://developer.ibm.com/tutorials/awb-implementing-apriori-algorithm-python/
+    -Selvaraj, N. (n.d.). How to Perform Market Basket Analysis in Python. 365 Data Science. Retrieved April 24, 2024, from https://365datascience.com/tutorials/python-tutorials/market-basket-analysis/
   
 - Autocorrelation Plot:
-  -Brownlee, J. (2023, November 18). How to Create an ARIMA Model for Time Series Forecasting in Python - MachineLearningMastery.com. Machine Learning Mastery.     Retrieved April 24, 2024, from https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
-  -Rohrer, B. (2022, September 30). Autocorrelation Function in Time series Forecasting | Machine Learning. YouTube. Retrieved April 24, 2024, from https://www.youtube.com/watch?v=V8QChjyYY48
-  -Time Series Talk : Autocorrelation and Partial Autocorrelation. (2019, April 11). YouTube. Retrieved April 24, 2024, from https://www.youtube.com/watch?v=DeORzP0go5I
+    -Brownlee, J. (2023, November 18). How to Create an ARIMA Model for Time Series Forecasting in Python - MachineLearningMastery.com. Machine Learning Mastery.     Retrieved April 24, 2024, from https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+    -Rohrer, B. (2022, September 30). Autocorrelation Function in Time series Forecasting | Machine Learning. YouTube. Retrieved April 24, 2024, from https://www.youtube.com/watch?v=V8QChjyYY48
+    -Time Series Talk : Autocorrelation and Partial Autocorrelation. (2019, April 11). YouTube. Retrieved April 24, 2024, from https://www.youtube.com/watch?v=DeORzP0go5I
 
   
 
