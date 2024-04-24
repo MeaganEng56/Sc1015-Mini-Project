@@ -25,7 +25,6 @@ How does the online retail transactions dataset give us insight on customer beha
 - Scatter Plot
 - Choropleth Map, Proportional Symbol Map
   - Visualise the sales in each country
-  - 
 -Autocorrelation Plot
 
 
